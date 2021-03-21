@@ -1,6 +1,6 @@
 ﻿Một quán cafe cần một phần mềm quản lí để thuận tiện trong việc quản lí việc bán cafe của quán. 
 Đối với nhân viên thì hệ thống quản lí quán sẽ lưu trữ thông tin liên quan tơi nhân viên bao gồm
- mã số nhân viên, họ tên, bộ phận mà nhân viên đó đảm nhận, quê quán, địa chỉ, số điện thoại 
+ mã số nhân viên, họ tên, bộ phận mà nhân viên đó đảm nhận, giới tính, số điện thoại 
 của nhân viên. Điều này giúp quán kiểm soát tốt về nhân viên của quán, số nhân viên, thông tin 
 nhân viên, tra tìm nhân viên được nhanh gọn.
 
@@ -9,8 +9,7 @@ tên sản phâm, đơn vị tính, giá bán ,mã loại. Loại sản phẩm s
 hơn, dễ cho việc thống kê, tính toán.
 
 Đối với khách hàng hệ thống sẽ lưu trữ lại thông tin khách hàng gồm mã khách hàng, họ tên, số điện 
-thoại, địa chỉ, nhằm quản lí việc lưu trữ lại các khách hàng thân thiết của quán, tùy theo ý định 
-của khách mà nhân viên có thể lưu lại thông tin để có thể trở thành khách thân thiết. những khách 
+thoại, địa chỉ, nhằm quản lí việc lưu trữ lại các khách hàng thân thiết của quán. những khách 
 hàng này có thể được khuyến mãi hoặc những ưu đãi đặc biệt.
 
 Khi khách vào thì hệ thống sẽ cho biết trạng thái của các bàn để có thể xếp chỗ cho khách một cách 
